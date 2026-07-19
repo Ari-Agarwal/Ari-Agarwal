@@ -1,6 +1,6 @@
 ### Ari Agarwal
 
-Building [Kairos](https://github.com/Ari-Agarwal/kairos): free AI college counseling for students who can't afford a $4,000/year private counselor. Sophomore, self-taught, shipping solo.
+Building [Kairos](https://github.com/Ari-Agarwal/kairos): a hub for students applying to college. Sophomore, self-taught, shipping solo.
 
 **Stack:** Next.js · React · TypeScript · Supabase · Claude API
 
